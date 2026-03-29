@@ -8,8 +8,8 @@ The project uses:
 . SQL → Data analysis & insights generation
 
 🎯 Objectives
-Analyze ride demand across different cities
-Identify revenue leakage and fare discrepancies
-Study cancellation patterns and their impact
-Evaluate driver performance and earnings
-Understand seasonal fare trends
+. Analyze ride demand across different cities
+. Identify revenue leakage and fare discrepancies
+. Study cancellation patterns and their impact
+. Evaluate driver performance and earnings
+. Understand seasonal fare trends
