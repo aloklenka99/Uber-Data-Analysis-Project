@@ -30,3 +30,54 @@ The project uses multiple datasets:
 * Rides Data → Ride-level details 
 
 * Payments Data → Payment transactions
+
+
+⚙️ Tools & Technologies
+
+   🐍 Python (Pandas, NumPy)
+   
+   🗄️ SQL Server
+
+
+🧹 Data Cleaning (Python)
+
+  Key steps performed:
+
+* Handling missing values
+  
+* Removing duplicates
+  
+* Rounding numerical values
+  
+* Exporting cleaned datasets
+
+
+📊 SQL Analysis & Insights
+
+* City-Level Performance
+
+* Revenue Leakage Detection
+  
+* Cancellation Analysis
+  
+* Driver Performance Metrics
+
+
+📈 Key Insights
+
+* High-demand cities also show higher cancellation rates
+  
+* Revenue leakage exists due to incomplete or mismatched payments
+  
+* Peak-hour cancellations significantly affect revenue
+  
+* Seasonal trends impact fare pricing
+  
+* Driver experience correlates with better ratings and earnings
+
+
+👨‍💻 Author
+
+Alok Lenka
+
+Data Analyst | SQL | Python | 
