@@ -17,3 +17,16 @@ Analyze ride demand across different cities
 * Evaluate driver performance and earnings
   
 * Understand seasonal fare trends
+
+
+🗂️ Dataset Description
+
+The project uses multiple datasets:
+
+* City Data → City-level metrics 
+
+* Drivers Data → Driver details
+
+* Rides Data → Ride-level details 
+
+* Payments Data → Payment transactions
